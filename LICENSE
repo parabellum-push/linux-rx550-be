@@ -1,0 +1,3 @@
+These patches modify the Linux kernel and are licensed under the GNU General Public License,
+version 2 (GPL-2.0-only), the same as the files they change. The full text is in the kernel source
+as COPYING and LICENSES/preferred/GPL-2.0, and at https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
